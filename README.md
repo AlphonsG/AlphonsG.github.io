@@ -1,7 +1,16 @@
 # Alphons Gwatimba Portfolio
 
-Software Engineer, AI researcher.
+<img src="images/full.png" width="240" />
 
+Software Engineer, AI researcher
+
+# Table of Contents
+
+- [Projects](#projects)
+- [Publications](#publications)
+- [Awards](#awards)
+- [Presentations](#presentations)
+- [Contact](#contact)
 
 # Projects
 ## Rainbow <a id="rainbow"></a>
@@ -115,4 +124,8 @@ Masters Research Project
 - 2021 Australasian Wound & Tissue Repair Society Wound Healing Virtual Symposium
 
 - 2021, 2020 Wal-yan Scientific Retreat
+
+# Contact
+
+- ## Email: alphonsg@protonmail.com
 

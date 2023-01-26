@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 4
+img: neutrophil_detections.gif
+alt: image-alt
+description: Time lapse image sequence of migrating neutrophils (left) automatically detected by Epic (right).
+---

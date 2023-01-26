@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 7
+img: cell_dets_and_segs.gif
+alt: image-alt
+description: Gut organoids automatically detected using bounding boxes (left) and then segmented from those bounding boxes (right) using Epic.
+---

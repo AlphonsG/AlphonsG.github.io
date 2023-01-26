@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 1
+img: raw_vs_flow.gif
+alt: image-alt
+description: Raw ALI cell culture image series (left) and Rainbow optical flow visualisation (right).
+---

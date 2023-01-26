@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 9
+img: bimana.png
+alt: image-alt
+description: Histological section of epithelium with alcian blue stain (top) and fluorescent tight junction (bottom)  image analysis by Bimana.
+---

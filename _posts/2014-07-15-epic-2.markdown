@@ -1,0 +1,7 @@
+---
+layout: default
+modal-id: 5
+img: leading_edges_and_tracks.gif
+alt: image-alt
+description: Automatically detected leading edges (left) and cells tracked (right) by Epic in an airway epithelial cell wound repair image series.
+---
